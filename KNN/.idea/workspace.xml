@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92971842-174d-4737-94ba-2ec78f787538" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ml" />
+  </component>
+  <component name="ProjectId" id="1WoBn8U20AIaHkcinhrDyVSiiXz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="KNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deleteme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deleteme.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="digits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/digits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.deleteme" />
+      <item itemvalue="Python.digits" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.deleteme" />
+        <item itemvalue="Python.digits" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92971842-174d-4737-94ba-2ec78f787538" name="Default Changelist" comment="" />
+      <created>1579806231977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579806231977</updated>
+      <workItem from="1579806238873" duration="10891000" />
+      <workItem from="1579883043558" duration="91000" />
+      <workItem from="1579970347334" duration="7852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="777" y="457" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580721000666">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state x="777" y="457" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.2495.1576@65.24.2495.1576" timestamp="1580721000666" />
+    <state x="997" y="604" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579861099316">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state x="997" y="604" key="#com.intellij.fileTypes.FileTypeChooser/65.24.2495.1576@65.24.2495.1576" timestamp="1579861099316" />
+    <state x="1100" y="557" key="FileChooserDialogImpl" timestamp="1579883131923">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state x="1100" y="557" key="FileChooserDialogImpl/65.24.2495.1576@65.24.2495.1576" timestamp="1579883131923" />
+    <state width="2449" height="573" key="GridCell.Tab.0.bottom" timestamp="1580722538171">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.0.bottom/65.24.2495.1576@65.24.2495.1576" timestamp="1580722538171" />
+    <state width="2449" height="573" key="GridCell.Tab.0.center" timestamp="1580722538158">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.0.center/65.24.2495.1576@65.24.2495.1576" timestamp="1580722538158" />
+    <state width="2449" height="573" key="GridCell.Tab.0.left" timestamp="1580722538157">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.0.left/65.24.2495.1576@65.24.2495.1576" timestamp="1580722538157" />
+    <state width="2449" height="573" key="GridCell.Tab.0.right" timestamp="1580722538170">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.0.right/65.24.2495.1576@65.24.2495.1576" timestamp="1580722538170" />
+    <state width="2449" height="573" key="GridCell.Tab.1.bottom" timestamp="1580722538178">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.1.bottom/65.24.2495.1576@65.24.2495.1576" timestamp="1580722538178" />
+    <state width="2449" height="573" key="GridCell.Tab.1.center" timestamp="1580722538175">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.1.center/65.24.2495.1576@65.24.2495.1576" timestamp="1580722538175" />
+    <state width="2449" height="573" key="GridCell.Tab.1.left" timestamp="1580722538173">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.1.left/65.24.2495.1576@65.24.2495.1576" timestamp="1580722538173" />
+    <state width="2449" height="573" key="GridCell.Tab.1.right" timestamp="1580722538177">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.1.right/65.24.2495.1576@65.24.2495.1576" timestamp="1580722538177" />
+    <state x="806" y="434" key="SettingsEditor" timestamp="1579806357486">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state x="806" y="434" key="SettingsEditor/65.24.2495.1576@65.24.2495.1576" timestamp="1579806357486" />
+    <state x="974" y="543" key="com.intellij.ide.util.TipDialog" timestamp="1579883070219">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state x="974" y="543" key="com.intellij.ide.util.TipDialog/65.24.2495.1576@65.24.2495.1576" timestamp="1579883070219" />
+    <state x="975" y="366" key="search.everywhere.popup" timestamp="1579882626582">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state x="975" y="366" key="search.everywhere.popup/65.24.2495.1576@65.24.2495.1576" timestamp="1579882626582" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/KNN$test.coverage" NAME="test Coverage Results" MODIFIED="1580721838049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KNN$digits.coverage" NAME="digits Coverage Results" MODIFIED="1580661752090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KNN$deleteme.coverage" NAME="deleteme Coverage Results" MODIFIED="1580721030828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0684645a-38c3-44f0-9f95-9a581afd7446" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WqhfNrTK1V6V9fGa5eCzri3fd9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KNN" />
+    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="trees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="trees" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trees.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.trees" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0684645a-38c3-44f0-9f95-9a581afd7446" name="Default Changelist" comment="" />
+      <created>1579883134372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579883134372</updated>
+      <workItem from="1579883136281" duration="4237000" />
+      <workItem from="1579890021590" duration="638000" />
+      <workItem from="1579949726174" duration="10325000" />
+      <workItem from="1580722569219" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="777" y="457" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579890660239">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state x="777" y="457" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.2495.1576@65.24.2495.1576" timestamp="1579890660239" />
+    <state x="1099" y="557" width="424" height="482" key="FileChooserDialogImpl" timestamp="1579970343577">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state x="1099" y="557" width="424" height="482" key="FileChooserDialogImpl/65.24.2495.1576@65.24.2495.1576" timestamp="1579970343577" />
+    <state width="2449" height="573" key="GridCell.Tab.0.bottom" timestamp="1580722544531">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.0.bottom/65.24.2495.1576@65.24.2495.1576" timestamp="1580722544531" />
+    <state width="2449" height="573" key="GridCell.Tab.0.center" timestamp="1580722544529">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.0.center/65.24.2495.1576@65.24.2495.1576" timestamp="1580722544529" />
+    <state width="2449" height="573" key="GridCell.Tab.0.left" timestamp="1580722544528">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.0.left/65.24.2495.1576@65.24.2495.1576" timestamp="1580722544528" />
+    <state width="2449" height="573" key="GridCell.Tab.0.right" timestamp="1580722544530">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.0.right/65.24.2495.1576@65.24.2495.1576" timestamp="1580722544530" />
+    <state width="2449" height="573" key="GridCell.Tab.1.bottom" timestamp="1580722544536">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.1.bottom/65.24.2495.1576@65.24.2495.1576" timestamp="1580722544536" />
+    <state width="2449" height="573" key="GridCell.Tab.1.center" timestamp="1580722544534">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.1.center/65.24.2495.1576@65.24.2495.1576" timestamp="1580722544534" />
+    <state width="2449" height="573" key="GridCell.Tab.1.left" timestamp="1580722544532">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.1.left/65.24.2495.1576@65.24.2495.1576" timestamp="1580722544532" />
+    <state width="2449" height="573" key="GridCell.Tab.1.right" timestamp="1580722544535">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state width="2449" height="573" key="GridCell.Tab.1.right/65.24.2495.1576@65.24.2495.1576" timestamp="1580722544535" />
+    <state x="805" y="434" key="SettingsEditor" timestamp="1579890622515">
+      <screen x="65" y="24" width="2495" height="1576" />
+    </state>
+    <state x="805" y="434" key="SettingsEditor/65.24.2495.1576@65.24.2495.1576" timestamp="1579890622515" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/trees$trees.coverage" NAME="trees Coverage Results" MODIFIED="1579954507034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
